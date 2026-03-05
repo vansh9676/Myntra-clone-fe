@@ -8,7 +8,7 @@ The application includes a **Hybrid Recently Viewed System** that stores product
 
 ## 🚀 Live Demo
 
-👉 https://YOUR-NETLIFY-LINK.netlify.app
+👉https://myntrs.netlify.app/
 
 ---
 
